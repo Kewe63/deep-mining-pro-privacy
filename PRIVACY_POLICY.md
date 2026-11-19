@@ -1,7 +1,7 @@
 # Privacy Policy — Deep Mining Pro
 
 **Effective date:** November 19, 2026  
-**App version:** 1.0.0
+**App version:** 1.0.1
 
 Publisher identity for this release package: **Deep Mining Pro**. Privacy and support requests can be submitted to the monitored email address listed below. The public policy is published at `https://kewe63.github.io/deep-mining-pro-privacy/` and the same support email must be configured in Play Console.
 
